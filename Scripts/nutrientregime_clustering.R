@@ -10,7 +10,7 @@ library(VarSelLCM)
 library(ggmap)
 library(PNWColors)
 
-register_google(key = "AIzaSyDwMUZzhh5rl-Gtn2OBIzoBS42uv3vx8Kw")
+register_google(key = "")
 
 ### Load data ############################################################
 data <- read_csv("https://raw.githubusercontent.com/njsilbiger/NutrientRegimes/main/Data/NutrientAll.csv")
